@@ -19,4 +19,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## You'll need a YouTube Data API v3 key to run this app.
 
-You can get a key <a href="console.developers.google.com">here.</a>
+You can get a key <a href="https://console.developers.google.com">here.</a>
