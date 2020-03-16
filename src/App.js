@@ -13,7 +13,9 @@ class App extends React.Component {
   }
 
   componentDidMount() {
-    this.handleSubmit("Never gonna give you up")
+    const defaultSearchTerm = "Never gonna give you up" // The search term used initally 
+
+    this.handleSubmit(defaultSearchTerm)
   }
 
   handleSubmit = async searchTerm => {
